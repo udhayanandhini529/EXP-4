@@ -55,6 +55,7 @@ Rectifier with filter
 WAVEFORM:
 Half wave rectifier with filter:
 <img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/bddb4e0b-aa46-4923-8c42-3d4067e2db2e" />
+
 Full wave rectifier with filter:
 <img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/9bdc682c-4464-431d-b936-fe578f435025" />
 
